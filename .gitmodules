@@ -1,0 +1,3 @@
+[submodule "ComponentModel.Composition.Initialization.Desktop"]
+	path = ComponentModel.Composition.Initialization.Desktop
+	url = git@github.com:EbenZhang/Composition.Initialization.Desktop.git
